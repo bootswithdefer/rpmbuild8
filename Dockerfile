@@ -1,4 +1,4 @@
-FROM centos:8
+FROM rockylinux:8
 MAINTAINER Jesse DeFer <rpmbuild8@dotd.com>
 
 RUN dnf update -y 
